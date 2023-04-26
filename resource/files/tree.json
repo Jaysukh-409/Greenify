@@ -1,0 +1,94 @@
+{
+    "tree":[
+        {
+            "id":  1,
+            "name":"Neem Tree",
+            "description":"Neem is a fast-growing tree that can reach a height of 15-20 metres (49-66 ft), and rarely 35-40 m (115-131 ft).Neem oil is used to prevent pest attacks.",
+            "soil": "Clay,saline and alkaline"
+        },
+        {
+            "id":  2,
+            "name":"Howthrones",
+            "description":"Providing good cover for many birds, hawthorns also produce scarlet berries that hang on nearly all winter. Thorns up to three inches long are a liability and an asset.",
+            "soil": "cray, sandy, chalky soil"
+        },
+        {
+            "id":  3,
+            "name":"Indian Mahogany",
+            "description":"It's bark extracts are used as an astringent for wounds. It is used to cure malaria, anemia diarrhea, fever, dysentery and depurative.",            
+            "soil": "Sandy loam soil"
+        },
+        {
+            "id":  4,
+            "name":"Sal",
+            "description":"This tree is native to the Indian subcontinent.It is moderate to slow growing, and can attain heights of 30 to 35 m and a trunk diameter of up to 2-2.5 m.",           
+            "soil": "Well drained moist soil"
+        },
+        {
+            "id":  5,
+            "name":"Money Plant",
+            "description":"Money plant is a popular houseplant with immense benefits. Keeping money plant in home is also considered to bring good luck and prosperity. Among the main benefits of money plant is its ability to purify the air by eliminating airborne pollutants like carbon monoxide.",            
+            "soil": "Loamy soil"
+        },
+        {
+            "id":6,
+            "name":"Bamboo Tree",
+            "description":"It requires no pesticides or chemical fertilisers.It grows rapidly and can be harvested in 3-5 years.It rarely needs replanting.It produces more oxygen than trees.It plays an important role in the balance of oxygen and carbon dioxide in the atmosphere.It sequesters carbon dioxide and is carbon neutral.",            
+            "soil": "well drained sandy soil to clay soil"
+        },
+        {
+            "id":7,
+            "name":"Dracena Tree",
+            "description":"The dracaena plant is a popular ornamental houseplant, grown both indoors and outdoors in subtropical climates.It reaches a height of about three feet indoors, and has a bushy tree type of look. Its glossy leaves can grow up to one foot long and a couple of inches wide.",
+            "soil":"chunky soil mix that drains well"
+        },
+        {
+            "id":8,
+            "name":"Peepal Tree",
+            "description":"is a fast-growing tree having heart-shaped leaves with a large crown. It sheds its leaves in the month of March and April. Peepal tree is used for various purposes, as ear drop, heals wounds, root bark cleans ulcers, prevent gum diseases.",
+            "soil":"any type of soil"
+        },
+        {
+            "id":9,
+            "name":"Eucalyptus",
+            "description":"The leaves of this evergreen kind of tree are of 6-12 inches long and 1-2 inches broad when they are adult. Height is nearly about 300 feet or more.",
+            "soil":"well drained"
+        },
+        {
+            "id":10,
+            "name":"Hibiscus",
+            "description":"Hibiscus is a genus of flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world.",
+            "soil":"any soil but it should be well-drained"
+        },
+        {
+            "id":11,
+            "name":"Apple Tree",
+            "description":"An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.",
+            "soil":"well-drained, loam soils having a depth of 45 cm and a pH range of pH 5.5-6.5. The soil should be free from hard substrata and water-logged conditions. Soils with heavy clay or compact subsoil are to be avoided."
+        },
+        {
+            "id":12,
+            "name":"Kapok Tree",
+            "description":"It is a tropical tree of the order Malvales and the family Malvaceae, native to Mexico, Central America and the Caribbean, northern South America, and West Africa. A somewhat smaller variety was introduced to South and Southeast Asia, where it is cultivated.",
+            "soil":"deep well drained sandy loam soils"
+        },
+        {
+            "id":13,
+            "name":"Birch Tree",
+            "description":"A Birch is a thin-leaved deciduous hardword tree of the genus Betula, in the family Betulaceae, which also includes alders,hazels, and hornbeams.Because of the hardness of birch, it is easier to shape it with power tools; it is quite difficult to work it with it with hand tools.It is light but strong, and has many other good properties.",
+            "soil":"Moist, Sandy and Loamy Soil"
+        },
+        {
+            "id":14,
+            "name":"Fir Tree",
+            "description":"Firs (Abies) are about 45-55 species of evergreen trees in the family Pinaceae. Fir trees can reach heights of 10-80 m tall and trunk diameters of 0.5-4 m when mature.Fir Trees are symmetrical, evergreen, coniferous trees that range in mature height from 10-80 metres. Their branches grow in a whorl around the tree each year, making it easy to figure out the age of the tree.People use the shoot and oil for medicine. Fir is taken by mouth for respiratory tract pain and swelling (inflammation), colds, cough, bronchitis, fever, and sore mouth and throat.",
+            "soil":"Moist but well-drained, slightly acidic soil (clay, sand or loam)"
+        },
+        {
+            "id":15,
+            "name":"Maple Tree",
+            "description":"Most maples are trees growing to a height of 10-45 m (33-148 ft). Others are shrubs less than 10 meters tall with a number of small trunks originating at ground level.Maples produce the best syrup.Some of the sweetest, richest syrup comes from maple trees. A maple tree must be 30 years old before it can have its sap extracted and made into syrup.",
+            "soil":"Well drained but Moist Soil of average Fertility"
+        }
+    ]
+}
